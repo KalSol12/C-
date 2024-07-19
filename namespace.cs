@@ -10,6 +10,7 @@ static void Main()
 {
 	Console.WriteLine("hi want to start asp .net say somthing");
 	Console.WriteLine("Smilex: yes please!");
+	Console.WriteLine("tell me where  start to learn the basics of asp.net");
 
 }
 }
